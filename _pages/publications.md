@@ -13,15 +13,7 @@ author_profile: true
 
 - **Wang, Ganyu**, Bin Gu, Qingsong Zhang, Xiang Li, Boyu Wang, and Charles X Ling.  
   "A unified solution for privacy and communication efficiency in vertical federated learning."  
-  *Advances in Neural Information Processing Systems*, 36 (2024).
-
-- **Wang, Ganyu**, Miguel Martin, Patrick Hung, and Shane MacDonald.  
-  "Towards classifying motor imagery using a consumer-grade brain-computer interface."  
-  In *2019 IEEE International Conference on Cognitive Computing (ICCC)*, 67–69. IEEE, 2019.
-
-- **Wang, Ganyu** and Miguel Vargas Martin.  
-  "Segmentperturb: Effective black-box hidden voice attack on commercial ASR systems via selective deletion."  
-  In *2021 18th International Conference on Privacy, Security and Trust (PST)*, 1–12. IEEE, 2021.
+  *Advances in Neural Information Processing Systems*, 36 (2024). 
 
 - **Wang, Ganyu**, Qingsong Zhang, Xiang Li, Boyu Wang, Bin Gu, and Charles X Ling.  
   "Secure and fast asynchronous vertical federated learning via cascaded hybrid optimization."  
@@ -31,5 +23,11 @@ author_profile: true
   "Asynchronous vertical federated learning for kernelized AUC maximization."  
   In *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 4244–4255, 2024.
 
+- **Wang, Ganyu**, Miguel Martin, Patrick Hung, and Shane MacDonald.  
+  "Towards classifying motor imagery using a consumer-grade brain-computer interface."  
+  In *2019 IEEE International Conference on Cognitive Computing (ICCC)*, 67–69. IEEE, 2019.
 
+- **Wang, Ganyu** and Miguel Vargas Martin.  
+  "Segmentperturb: Effective black-box hidden voice attack on commercial ASR systems via selective deletion."  
+  In *2021 18th International Conference on Privacy, Security and Trust (PST)*, 1–12. IEEE, 2021.
 
