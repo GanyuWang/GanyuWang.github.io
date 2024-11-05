@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Ganyu Wang
-- 📞 +1 2265045633  
-- ✉️ [gwang382@uwo.ca](mailto:gwang382@uwo.ca)  
-- [LinkedIn](https://www.linkedin.com/in/ganyu-wang/) | [GitHub](https://github.com/GanyuWang) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=eDy2ni4AAAAJ)
-
----
 
 ## Education
 
@@ -28,9 +22,8 @@ redirect_from:
 
 - **University of Electronic Science and Technology of China**  
   *B.Sc. in Computer Science and Technology*  
-  *Sept. 2015 - Jul. 2019*  
-  - GPA: 3.84/4.00 (87.02/100)  
-  - Yingcai Honors College (top 5% undergraduates)
+  *Sept. 2015 - Jul. 2019*   
+  Yingcai Honors College (top 5% undergraduates)
 
 ---
 
@@ -66,7 +59,7 @@ redirect_from:
 
 ## Reviewing Experience
 
-- **AISTATS-2024, ICML-2024, KDD-2024, ICLR-2025**
+- **AISTATS-2024, ICML-2024, KDD-2024, AAAI-2025, ICLR-2025**
 
 ---
 
@@ -86,7 +79,7 @@ redirect_from:
   - Designed and taught foundational data mining concepts to fourth-year undergraduates.
 
 
-# References
+# Publications
 
 1. **Wang, Ganyu**, Bin Gu, Qingsong Zhang, Xiang Li, Boyu Wang, and Charles X Ling.  
    *A unified solution for privacy and communication efficiency in vertical federated learning.*  
