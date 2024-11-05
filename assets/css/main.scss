@@ -87,3 +87,26 @@
 
 
 }
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    width: auto;
+}
+
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #1e90ff; // Customize badge color here
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.project-image {
+    width: 100%;
+    border-radius: 5px; // Rounds the corners of the image
+}

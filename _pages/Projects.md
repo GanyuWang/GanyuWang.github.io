@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/main.scss' | relative_url }}">
 
 ### Optimization Efficiency and Privacy in Vertical Federated Learning
 *Apr. 2022 - Jan. 2024* 
@@ -14,12 +14,20 @@ Developed an innovative Vertical Federated Learning framework that combines vari
 
 <div style="position: relative; display: inline-block; width: auto;">
   <!-- Badge -->
-  <div style="position: absolute; top: 10px; left: 10px; background-color: #1e90ff; color: white; padding: 5px 10px; font-size: 14px; font-weight: bold; border-radius: 5px;">
+  <div class="badge">
     NeurIPS 2023
   </div>
   <!-- Image -->
   <img src="/images/a_unified_framework.jpg" alt="A Unified Framework" style="width: 100%; border-radius: 5px;">
 </div>
+
+<div class="image-container">
+  <!-- Badge -->
+  <div class="badge">NeurIPS 2023</div>
+  <!-- Image -->
+  <img src="images/a_unified_framework.jpg" alt="A Unified Framework" class="project-image">
+</div>
+
 
 <!-- ![a](/images/a_unified_framework.jpg) -->
 
