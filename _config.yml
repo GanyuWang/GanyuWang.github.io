@@ -21,7 +21,7 @@ repository               : "GanyuWang/GanyuWang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_photo_ganyu.jpg"
   name             : "Ganyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ganyu Wang, Computer Science, PhD Student from Western University. ML Lab."
