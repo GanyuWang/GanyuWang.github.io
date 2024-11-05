@@ -11,7 +11,7 @@ author_profile: true
 Developed an innovative Vertical Federated Learning framework that combines various optimization techniques to improve convergence rates while preserving data privacy. Proposed a theoretical analysis of the framework's convergence and differential privacy guarantees, achieving substantial reductions in communication costs. This series of works are published in [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b5af479527167d4af78847a9b9b645f-Abstract-Conference.html) and [Machine Learning Journal (MLJ)](https://link.springer.com/article/10.1007/s10994-024-06541-y).
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='_projects/a_unified_framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='projects/a_unified_framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
