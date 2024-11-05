@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+I’m Ganyu Wang, a Ph.D. student in Computer Science at Western University, specializing in machine learning, distributed systems, and privacy-preserving computation. With a strong academic foundation and practical experience, I have a proven record of developing novel frameworks and algorithms for complex, large-scale distributed learning environments, particularly in Vertical Federated Learning. 
 
-I’m Ganyu Wang, a Ph.D. student in Computer Science at the University of Western Ontario, specializing in machine learning, distributed systems, and privacy-preserving computation. With a strong academic foundation and practical experience, I have a proven record of developing novel frameworks and algorithms for complex, large-scale distributed learning environments, particularly in Vertical Federated Learning. 
 
 
 ## Research Interests
