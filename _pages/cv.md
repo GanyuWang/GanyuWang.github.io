@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download My CV (PDF)](/files/Resume_PhD_Ganyu.pdf)
 
 ## Education
 
