@@ -26,6 +26,17 @@ Developed an innovative Vertical Federated Learning framework that combines vari
 *Jun. 2023 - Jul. 2024*  
 Contributed to the Asynchronous Vertical Federated Kernelized AUC Maximization (AVFKAM) project, designed to enhance model performance on imbalanced datasets. This project demonstrates notable improvements in training efficiency for federated systems. Published in [KDD 2024](https://dl.acm.org/doi/10.1145/3637528.3671930).
 
+
+<div style="position: relative; display: inline-block; width: auto;">
+  <!-- Badge -->
+  <div class="badge">
+    KDD 2024
+  </div>
+  <!-- Image -->
+  <img src="/images/asy_auc_combine.jpg" alt="Kernelized AUC Maximization" style="width: 100%; border-radius: 5px;">
+</div>
+
+
 ### Online Learning in Vertical Federated Learning
 *In Progress*  
 Researching online learning algorithms tailored for Vertical Federated Learning systems, addressing the unique challenges of dynamic data environments. This work has been submitted to ICLR 2025.
