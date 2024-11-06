@@ -13,15 +13,15 @@ author_profile: true
 
 - **Wang, Ganyu**, Bin Gu, Qingsong Zhang, Xiang Li, Boyu Wang, and Charles X Ling.  
   "A unified solution for privacy and communication efficiency in vertical federated learning."  
-  *Advances in Neural Information Processing Systems*, 36 (2024). 
+  *Advances in Neural Information Processing Systems* <span style="color:red"> **(NeurIPS)**</span>, 36 (2024). 
 
 - **Wang, Ganyu**, Qingsong Zhang, Xiang Li, Boyu Wang, Bin Gu, and Charles X Ling.  
   "Secure and fast asynchronous vertical federated learning via cascaded hybrid optimization."  
-  *Machine Learning* 113, no. 9 (2024): 6413–6451.
+  *Machine Learning* <span style="color:red"> **(MLJ)**</span> 113, no. 9 (2024): 6413–6451.
 
 - Ke Zhang, **Wang, Ganyu**, Han Li, Yulong Wang, Hong Chen, and Bin Gu.  
   "Asynchronous vertical federated learning for kernelized AUC maximization."  
-  In *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*, 4244–4255, 2024.
+  In *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* <span style="color:red"> **(KDD)**</span>, 4244–4255, 2024.
 
 - **Wang, Ganyu**, Miguel Martin, Patrick Hung, and Shane MacDonald.  
   "Towards classifying motor imagery using a consumer-grade brain-computer interface."  
