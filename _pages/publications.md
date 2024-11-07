@@ -23,11 +23,10 @@ author_profile: true
   ["Asynchronous vertical federated learning for kernelized AUC maximization."](https://dl.acm.org/doi/10.1145/3637528.3671930)
   In *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* <span style="color:red"> **(KDD)**</span>, 4244–4255, 2024.
 
-- **Wang, Ganyu**, Miguel Martin, Patrick Hung, and Shane MacDonald.  
-  ["Towards classifying motor imagery using a consumer-grade brain-computer interface."](https://ieeexplore.ieee.org/abstract/document/8816994)
-  In *2019 IEEE International Conference on Cognitive Computing (ICCC)*, 67–69. IEEE, 2019.
-
 - **Wang, Ganyu** and Miguel Vargas Martin.  
   ["Segmentperturb: Effective black-box hidden voice attack on commercial ASR systems via selective deletion."](https://ieeexplore.ieee.org/document/9647775)  
   In *2021 18th International Conference on Privacy, Security and Trust (PST)*, 1–12. IEEE, 2021.
 
+- **Wang, Ganyu**, Miguel Martin, Patrick Hung, and Shane MacDonald.  
+  ["Towards classifying motor imagery using a consumer-grade brain-computer interface."](https://ieeexplore.ieee.org/abstract/document/8816994)
+  In *2019 IEEE International Conference on Cognitive Computing (ICCC)*, 67–69. IEEE, 2019.
