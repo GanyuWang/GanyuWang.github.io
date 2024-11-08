@@ -39,7 +39,7 @@ Contributed to the Asynchronous Vertical Federated Kernelized AUC Maximization (
 
 ### Online Learning in Vertical Federated Learning
 *In Progress*  
-Researching online learning algorithms tailored for Vertical Federated Learning systems, addressing the unique challenges of dynamic data environments. This work has been submitted to ICLR 2025.
+Leading research on online learning algorithms specifically designed for Vertical Federated Learning systems, addressing the unique challenges posed by vertical federate learning. This work has been submitted to ICLR 2025.
 
 ### Black-box Prompt Learning for Cloud-based LLMs in Federated Learning
 *In Progress*  
