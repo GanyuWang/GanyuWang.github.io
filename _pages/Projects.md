@@ -31,7 +31,7 @@ This work has been accepted in [ICLR 2025](https://openreview.net/forum?id=FCBbh
     ICLR 2025
   </div>
   <!-- Image -->
-  <img src="/images/Project_ED_OVFL.jpg" alt="Event-Driven Online VFL" style="width: 100%; border-radius: 5px;">
+  <img src="/images/Project_ED_OVFL.jpg" alt="Event-Driven Online VFL" style="width: 50%; border-radius: 5px;">
 </div>
 
 
