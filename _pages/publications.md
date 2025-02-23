@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+- **Wang, Ganyu**, Bin Gu, Boyu Wang, and Charles X Ling.  
+  ["Event-Driven Online Vertical Federated Learning."](https://openreview.net/forum?id=FCBbh0HCrF)  
+  *The International Conference on Learning Representations* <span style="color:red"> **(ICLR)**</span> (2025). 
+
 - **Wang, Ganyu**, Bin Gu, Qingsong Zhang, Xiang Li, Boyu Wang, and Charles X Ling.  
   ["A unified solution for privacy and communication efficiency in vertical federated learning."](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b5af479527167d4af78847a9b9b645f-Abstract-Conference.html)
   *Advances in Neural Information Processing Systems* <span style="color:red"> **(NeurIPS)**</span>, 36 (2024). 
