@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-### Optimization Efficiency and Privacy in Vertical Federated Learning
+### Communication Efficiency and Privacy-preserving Computation in Vertical Federated Learning
 *Apr. 2022 - Jan. 2024*   
 Developed an innovative Vertical Federated Learning framework that combines various optimization techniques to improve convergence rates while preserving data privacy. Proposed a theoretical analysis of the framework's convergence and differential privacy guarantees, achieving substantial reductions in communication costs. This series of works are published in [NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b5af479527167d4af78847a9b9b645f-Abstract-Conference.html) and [Machine Learning Journal (MLJ)](https://link.springer.com/article/10.1007/s10994-024-06541-y).
 
