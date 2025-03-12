@@ -17,7 +17,7 @@ author_profile: true
 
 - **Wang, Ganyu**, Bin Gu, Qingsong Zhang, Xiang Li, Boyu Wang, and Charles X Ling.  
   ["A unified solution for privacy and communication efficiency in vertical federated learning."](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b5af479527167d4af78847a9b9b645f-Abstract-Conference.html)
-  *Advances in Neural Information Processing Systems* <span style="color:red"> **(NeurIPS)**</span>, 36 (2024). 
+  *Advances in Neural Information Processing Systems* <span style="color:red"> **(NeurIPS)**</span>, 36 (2023). 
 
 - **Wang, Ganyu**, Qingsong Zhang, Xiang Li, Boyu Wang, Bin Gu, and Charles X Ling.  
   ["Secure and fast asynchronous vertical federated learning via cascaded hybrid optimization."](https://link.springer.com/article/10.1007/s10994-024-06541-y)
