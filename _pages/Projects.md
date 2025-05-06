@@ -34,6 +34,20 @@ We address a critical challenge in Vertical Federated Learning (VFL): the absenc
   <img src="/images/Project_ED_OVFL.jpg" alt="Event-Driven Online VFL" style="width: 50%; border-radius: 5px;">
 </div>
 
+
+
+### FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning
+
+*Dec. 2023 – May. 2025*
+Proposed a novel federated learning framework tailored for black-box discrete prompt tuning on cloud-based LLMs, addressing the high query cost previously overlooked in federated black-box prompt learning scenarios. We theoretically proved and empirically validates that activating only one client per round achieves optimal query efficiency under this scenario. The framework is evaluated on GLUE tasks and real-world APIs (e.g., GPT-3.5), showing significant reductions in query overhead and computational demands. This work is accepted by [ICML 2025](https://openreview.net/forum?id=QwTDQXllam&noteId=xEK3wP8aUj).
+
+<div style="position: relative; display: inline-block; width: auto;">
+  <div class="badge">ICML 2025</div>
+  <img src="/images/Project_FedOne.jpg" alt="FedOne Framework" style="width: 100%; border-radius: 5px;">
+</div>
+
+
+
 ### Kernelized AUC Maximization in Vertical Federated Learning
 *Jun. 2023 - Jul. 2024*  
 Contributed to the Asynchronous Vertical Federated Kernelized AUC Maximization (AVFKAM) project, designed to enhance model performance on imbalanced datasets. This project demonstrates notable improvements in training efficiency for federated systems. Published in [KDD 2024](https://dl.acm.org/doi/10.1145/3637528.3671930).
