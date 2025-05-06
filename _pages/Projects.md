@@ -63,6 +63,3 @@ Contributed to the Asynchronous Vertical Federated Kernelized AUC Maximization (
 </div>
 
 
-### Black-box Prompt Learning for Cloud-based LLMs in Federated Learning
-*In Progress*  
-Leading a project to explore prompt learning techniques for cloud-hosted Large Language Models (LLMs), optimizing prompts in a black-box setting using the OpenAI API. This project addresses prompt effectiveness without access to model internals, bringing efficiency and adaptability to federated learning contexts. Submitted to ICML 2025.
