@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 * **Wang, Ganyu**, Jinjie Fang, Maxwell Juncheng Yin, Xi Chen, Boyu Wang, Bin Gu, and Charles X. Ling.
-  ["FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning."](https://openreview.net/pdf?id=NJqu7xwXZk)
+  ["FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning."](/files/ICML2025_FedOne_BDPL.pdf)
   *International Conference on Machine Learning* <span style="color:red"> **(ICML)**</span>, (2025).
 
 - **Wang, Ganyu**, Bin Gu, Boyu Wang, and Charles X Ling.  

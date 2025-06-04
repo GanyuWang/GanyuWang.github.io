@@ -10,7 +10,7 @@ author_profile: true
 ### FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning
 
 *Dec. 2023 – May. 2025*
-Proposed a novel federated learning framework tailored for black-box discrete prompt tuning on cloud-based LLMs, addressing the high query cost previously overlooked in federated black-box prompt learning scenarios. We theoretically proved and empirically validates that activating only one client per round achieves optimal query efficiency under this scenario. The framework is evaluated on GLUE tasks and real-world APIs (e.g., GPT-3.5), showing significant reductions in query overhead and computational demands. This work has been accepted by [ICML 2025](https://openreview.net/pdf?id=NJqu7xwXZk).
+Proposed a novel federated learning framework tailored for black-box discrete prompt tuning on cloud-based LLMs, addressing the high query cost previously overlooked in federated black-box prompt learning scenarios. We theoretically proved and empirically validates that activating only one client per round achieves optimal query efficiency under this scenario. The framework is evaluated on GLUE tasks and real-world APIs (e.g., GPT-3.5), showing significant reductions in query overhead and computational demands. This work has been accepted by [ICML 2025](/files/ICML2025_FedOne_BDPL.pdf).
 
 <div style="position: relative; display: inline-block; width: auto;">
   <div class="badge">ICML 2025</div>
