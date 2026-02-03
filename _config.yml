@@ -24,9 +24,8 @@ author:
   avatar           : "bio_photo_ganyu.jpg"
   name             : "Ganyu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ganyu Wang, Computer Science, PhD Student from Western University. ML Lab."
-  location         : "London, Ontario, Canada"
-  employer         : "Western University"
+  bio              : "Ganyu Wang, PhD in Computer Science. Senior Researcher at Huawei Canada."
+  employer         : "Huawei Canada"
   uri              : # URL
   email            : "wangganyu0@gmail.com" 
 

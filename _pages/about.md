@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I’m Ganyu Wang, a Ph.D. in Computer Science at Western University, specializing in **machine learning, distributed system applications, and privacy-preserving computation**. My recent research also explores the practical aspects of distributed learning systems, including **online learning** and the application of **large language models (LLMs)**. For more details, please refer to the [Projects](https://ganyuwang.github.io/projects/) tab. With a strong academic foundation and practical experience, I have a proven record of developing novel frameworks and algorithms for complex, large-scale distributed learning environments, particularly in Vertical Federated Learning. My work has been recognized through publications in top-tier conferences **(NeurIPS, ICLR, ICML, KDD)** and journal **(MLJ)**. 
+I am Ganyu Wang, PhD in Computer Science, currently a Senior Researcher at Huawei Canada working on AI-powered big data systems and large-scale machine learning platforms. My work lies at the intersection of machine learning, distributed systems, and privacy-preserving computation, with a particular focus on federated learning, LLMs, and data-efficient training methods.
 
+I have over four years of research and engineering experience designing, implementing, and deploying large-scale distributed ML systems in both academic and production environments. My recent industry work focuses on LLM-powered semantic analytics, including the design and optimization of LLM inference pipelines, Spark-based semantic operators, and distributed semantic aggregation systems under strict latency and cost constraints. This includes low-level system optimization involving GPU utilization, batching strategies, prefix-aware inference, and JVM/native performance profiling.
 
-I am open to **research and development positions in machine learning, large language models (LLMs), and distributed system applications** in the United States and Canada. Please feel free to contact me through my personal email at [wangganyu0@gmail.com](mailto:wangganyu0@gmail.com) or my university email at [gwang382@uwo.ca](mailto:gwang382@uwo.ca).
-
+I am interested in research and development roles involving machine learning systems, large language models, and distributed system applications in the United States and Canada.
+You can reach me at wangganyu0@gmail.com
 
 ## Research Interests
 
